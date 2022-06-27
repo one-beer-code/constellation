@@ -7,7 +7,7 @@ module.exports = merge(common, {
         mode: "development",
         output: {
             filename: '[name].[hash].js',
-            path: path.resolve(__dirname, 'dist'),
+            path: path.resolve(__dirname, 'docs'),
         },
         devtool: 'inline-source-map',
         devServer: {
