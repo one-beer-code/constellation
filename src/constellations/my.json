@@ -1,0 +1,150 @@
+[{
+  "stars": [
+    {
+      "id": 1,
+      "coordinates": [150, 150],
+      "connect": [2]
+    },
+    {
+      "id": 2,
+      "coordinates": [180, 370]
+    },
+    {
+      "id": 3,
+      "coordinates": [310, 130],
+      "connect": [4]
+    },
+    {
+      "id": 4,
+      "coordinates": [300, 350],
+      "connect": [5]
+    },
+    {
+      "id": 5,
+      "coordinates": [450, 330]
+    },
+    {
+      "id": 6,
+      "coordinates": [550, 150],
+      "connect": [7]
+    },
+    {
+      "id": 7,
+      "coordinates": [520, 370],
+      "connect": [9]
+    },
+    {
+      "id": 8,
+      "coordinates": [700, 150],
+      "connect": [6]
+    },
+    {
+      "id": 9,
+      "coordinates": [700, 350],
+      "connect": [8]
+    },
+    {
+      "id": 10,
+      "coordinates": [800, 70]
+    },
+    {
+      "id": 11,
+      "coordinates": [900, 350],
+      "connect": [10, 12]
+    },
+    {
+      "id": 12,
+      "coordinates": [1000, 150]
+    },
+    {
+      "id": 13,
+      "coordinates": [1080, 110],
+      "connect": []
+    },
+    {
+      "id": 14,
+      "coordinates": [1100, 250],
+      "connect": [17, 13, 15]
+    },
+    {
+      "id": 15,
+      "coordinates": [1100, 380],
+      "connect": []
+    },
+    {
+      "id": 16,
+      "coordinates": [1250, 150],
+      "connect": [13]
+    },
+    {
+      "id": 17,
+      "coordinates": [1250, 220],
+      "connect": []
+    },
+    {
+      "id": 18,
+      "coordinates": [1250, 350],
+      "connect": [15]
+    },
+    {
+      "id": 19,
+      "coordinates": [400, 450],
+      "connect": [21]
+    },
+    {
+      "id": 20,
+      "coordinates": [550, 450],
+      "connect": [21]
+    },
+    {
+      "id": 21,
+      "coordinates": [480, 500],
+      "connect": []
+    },
+    {
+      "id": 22,
+      "coordinates": [400, 650],
+      "connect": [21]
+    },
+    {
+      "id": 23,
+      "coordinates": [650, 450],
+      "connect": [24, 25]
+    },
+    {
+      "id": 24,
+      "coordinates": [670, 600],
+      "connect": [26]
+    },
+    {
+      "id": 25,
+      "coordinates": [800, 420],
+      "connect": []
+    },
+    {
+      "id": 26,
+      "coordinates": [780, 630],
+      "connect": [25]
+    },
+    {
+      "id": 27,
+      "coordinates": [880, 450],
+      "connect": [28]
+    },
+    {
+      "id": 28,
+      "coordinates": [900, 650],
+      "connect": [29]
+    },
+    {
+      "id": 29,
+      "coordinates": [1030, 630],
+      "connect": []
+    },
+    {
+      "id": 30,
+      "coordinates": [1070, 470],
+      "connect": [29]
+    }
+  ]
+}]

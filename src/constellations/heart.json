@@ -1,0 +1,44 @@
+[{
+  "stars": [
+    {
+      "id": 1,
+      "coordinates": [1850, 750],
+      "connect": [2, 8]
+    },
+    {
+      "id": 2,
+      "coordinates": [1750, 500],
+      "connect": [3]
+    },
+    {
+      "id": 3,
+      "coordinates": [1651, 485],
+      "connect": [4]
+    },
+    {
+      "id": 4,
+      "coordinates": [1605, 537],
+      "connect": []
+    },
+    {
+      "id": 5,
+      "coordinates": [1687, 637],
+      "connect": [4]
+    },
+    {
+      "id": 6,
+      "coordinates": [1560, 648],
+      "connect": [5]
+    },
+    {
+      "id": 7,
+      "coordinates": [1532, 715],
+      "connect": [6]
+    },
+    {
+      "id": 8,
+      "coordinates": [1630, 775],
+      "connect": [7]
+    }
+  ]
+}]
